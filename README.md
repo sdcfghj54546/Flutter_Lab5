@@ -1,6 +1,14 @@
 # my_app_morozov
 
-A new Flutter project.
+**Цитата дня** 
+*Приложение показывает случайную мотивирующую цитату из заранее подготовленного списка*
+*Морозов Влад исп-243 12.10.2026*
+img/0VRnWbpSWns.jpg
+git clone [<ссылка на репозиторий>](https://github.com/sdcfghj54546/Flutter_Lab5)
+cd ma_app_morozov
+flutter pub get
+flutter run -d chrome
+изучил много всего 
 
 ## Getting Started
 
